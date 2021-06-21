@@ -1,2 +1,3 @@
 # JavaBasicTemplates
- Java templates for understanding the basic concepts and ready to use , when needed !
+ Java templates for my own understanding, of the basic concepts. Ready to use , when needed !
+
